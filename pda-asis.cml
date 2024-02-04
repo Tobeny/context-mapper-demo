@@ -1,0 +1,8 @@
+ContextMap PDA_ASIS{
+    contains DataExtractionContext
+    contains DataConsolitaionContext
+}
+
+BoundedContext DataExtractionContext
+
+BoundedContext DataConsolitaionContext
